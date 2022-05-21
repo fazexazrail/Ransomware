@@ -3,12 +3,13 @@
  * ╟──────────────────────────────────────────────────────────────────────────────────────╢
  * ║                                                                                      ║
  * ║   Description: Terminate a list of specified services in once                        ║
+   ║   Credits: Babuk Ransomware                                                          ║
    ║                                                                                      ║
  * ║                                                                                      ║
    ║   Happy learning!                                                                    ║
  * ║                                                                                      ║
  * ║                                                                                      ║
- * ║																				                                              ║
+ * ║																				                           ║
  * ║                                                                                      ║
  * ╙──────────────────────────────────────────────────────────────────────────────────────╜
  */
@@ -121,5 +122,5 @@ VOID StopServices() {
 
 int main()
 {
-    StopServices(); // I don't know what I'm doing
+    StopServices();
 }
